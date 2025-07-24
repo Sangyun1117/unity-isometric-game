@@ -1,0 +1,48 @@
+# Unity Library 폴더 (캐시, 임시 데이터)
+[Ll]ibrary/
+
+# Temp 폴더 (임시 파일)
+[Tt]emp/
+
+# Obj 폴더 (빌드 임시 파일)
+[Oo]bj/
+
+# 빌드 결과물 폴더
+[Bb]uild/
+[Bb]uilds/
+
+# 사용자별 설정 파일
+*.user
+*.userprefs
+
+# Visual Studio, Rider, VSCode 등 IDE 임시 파일 및 폴더
+*.csproj
+*.sln
+*.pidb
+*.booproj
+*.svd
+.vscode/
+.idea/
+*.userosscache
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Crash 보고서
+sysinfo.txt
+
+# Mac OS 시스템 파일
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+.Spotlight-V100
+
+# Windows 시스템 파일
+Thumbs.db
+ehthumbs.db
+
+# 빌드 패키지
+*.apk
+*.unitypackage
